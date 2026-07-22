@@ -1,0 +1,86 @@
+# ===========================
+# Visual Studio
+# ===========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===========================
+# Build Output
+# ===========================
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+publish/
+
+# ===========================
+# .NET
+# ===========================
+*.dll
+*.exe
+*.pdb
+TestResults/
+
+# ASP.NET Core
+appsettings.Development.json
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# ===========================
+# Angular / Node.js
+# ===========================
+**/node_modules/
+**/dist/
+**/.angular/
+**/.angular/cache/
+**/coverage/
+**/.cache/
+**/tmp/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files (optional)
+# Uncomment if you don't want to commit them
+# **/src/environments/environment.ts
+# **/src/environments/environment.development.ts
+
+# ===========================
+# Package Managers
+# ===========================
+.pnpm-store/
+.npm/
+
+# ===========================
+# IDEs
+# ===========================
+.vscode/
+.idea/
+
+# ===========================
+# OS Files
+# ===========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ===========================
+# NuGet
+# ===========================
+packages/
+*.nupkg
+
+# SQLite (if used)
+*.db
+*.db-shm
+*.db-wal

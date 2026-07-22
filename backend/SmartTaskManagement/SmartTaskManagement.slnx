@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/SmartTaskManagement.API/SmartTaskManagement.API.csproj" />
+  <Project Path="src/SmartTaskManagement.Application/SmartTaskManagement.Application.csproj" Id="51a79317-5964-4f95-8252-cdd1621e24c5" />
+  <Project Path="src/SmartTaskManagement.Domain/SmartTaskManagement.Domain.csproj" Id="f487d113-8f8c-4f04-a901-1c6efc96d6cc" />
+  <Project Path="src/SmartTaskManagement.Infrastructure/SmartTaskManagement.Infrastructure.csproj" Id="b480cca5-8844-45d9-b579-10f7365b49ee" />
+</Solution>
